@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/phenomnomnominal/angular-2-local-storage.git"
+    "url": "https://github.com/davguij/angular-2-local-storage.git"
   },
   "bugs": {
-    "url": "https://github.com/phenomnomnominal/angular-2-local-storage/issues",
+    "url": "https://github.com/davguij/angular-2-local-storage/issues",
     "email": "craigspence0@gmail.com"
   },
   "license": "MIT",
