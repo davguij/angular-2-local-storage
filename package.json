@@ -2,7 +2,7 @@
   "name": "angular-2-local-storage",
   "version": "1.0.0",
   "description": "LocalStorageService for Angular 2 with mostly the same API (and most of the code) from angular-local-storage",
-  "main": "dist/index.js",
+  "main": "dist/index.ts",
   "typings": "dist/index.d.ts",
   "scripts": {
     "prebuild": "rimraf ./dist ./compiled && mkdir dist",
